@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2A448DCCA16027BAB91A08A1281BFAE999DDF89C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2A448DCCA16027BAB91A08A1281BFAE999DDF89C" : 0,
+    "F16D24CBD3B0399467EDC29867AF03BC48306972" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A11BFDCB-953F-4019-A6BE-8B270A7D2289",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2A448DCCA16027BAB91A08A1281BFAE999DDF89C" : "mapmap\/",
+    "F16D24CBD3B0399467EDC29867AF03BC48306972" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "maps",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "maps.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PrekshaK\/mapios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A448DCCA16027BAB91A08A1281BFAE999DDF89C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PrekshaK\/iosclassproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F16D24CBD3B0399467EDC29867AF03BC48306972"
+    }
+  ]
+}
